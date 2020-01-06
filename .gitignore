@@ -2,3 +2,4 @@ venv
 *.html
 *.xml
 __pycache__
+.idea
