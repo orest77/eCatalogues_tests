@@ -3,3 +3,5 @@ venv
 *.xml
 __pycache__
 .idea
+.venv
+logs_folder
